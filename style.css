@@ -1,0 +1,17 @@
+
+h1 {
+    text-align: center;    
+}
+
+div {
+    display: inline;
+}
+
+.animais {
+    width: 150px;
+    margin-left: 30px;
+}
+
+.animais: hover {
+    border: 2px solid #000000;
+}
